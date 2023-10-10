@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
 </head>
-<h1>Инфа</h1>
+<h1>Главная страница</h1>
 <body>
 
 <?php
